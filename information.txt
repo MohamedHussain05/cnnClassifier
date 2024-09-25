@@ -1,0 +1,6 @@
+link-"https://www.youtube.com/watch?v=btqPboJ_Ltc&list=PLkz_y24mlSJZtxpM7dkfiOYxs6PZXHt0_&index=2"
+
+2.template creation - includes folder and file creation
+3.Setuptool and Requirements installation
+4.Logging Module
+5.Utils -- which stores " function " which repeatedly we use
